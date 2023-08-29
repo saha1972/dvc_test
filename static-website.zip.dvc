@@ -1,0 +1,5 @@
+outs:
+- md5: 35f13b01a30d9f80b9d5aced0ec9225e
+  size: 22785401
+  hash: md5
+  path: static-website.zip
